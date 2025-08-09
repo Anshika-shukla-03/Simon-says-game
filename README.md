@@ -7,11 +7,6 @@ Test your memory skills by repeating the color sequence shown by the game. Each 
 ![Game Screenshot](game.png)
 
 
-## 🚀 Live Demo
-🔗 [Play Now](https://anshika-shukla-03.github.io/Simon-says-game/)
-
-
-## 🕹 How to Play
 1. Press any key to start the game.
 2. Watch the color sequence carefully.
 3. Click the buttons in the exact same order.
