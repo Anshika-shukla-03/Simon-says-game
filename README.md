@@ -36,7 +36,7 @@ Test your brain and reflexes as you try to remember and repeat an ever-growing s
 ---
 
 ## 📍 Live Demo
-👉 [Play Now](https://anshika-shukla-03.github.io/Simon-says-game/) *(after enabling GitHub Pages)*
+👉 
 
 ---
 
