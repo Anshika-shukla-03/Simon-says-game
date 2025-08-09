@@ -1,44 +1,33 @@
 # 🎮 Simon Says Game
 
-A fun and interactive **memory challenge** built with **HTML**, **CSS**, and **JavaScript**!  
-Test your brain and reflexes as you try to remember and repeat an ever-growing sequence of colors.
+A fun and interactive **Simon Says** memory game built using **HTML**, **CSS**, and **JavaScript**.  
+Test your memory skills by repeating the color sequence shown by the game. Each level gets harder as the sequence grows!  
 
----
+## 📷 Screenshot
+![Game Screenshot](game.png)
 
-## ✨ Features
-- 🎨 **Colorful UI** with smooth animations
-- ⏳ Increasing difficulty with each level
-- 🏆 Built-in **Leaderboard** to track scores
-- ⚡ Fast, responsive, and lightweight
-- 💻 Works on desktop and mobile
 
----
+## 🚀 Live Demo
+🔗 [Play Now](https://anshika-shukla-03.github.io/Simon-says-game/)
 
-## 🚀 How to Play
-1. Press **any key** or **click** anywhere to start.
-2. Watch the sequence of colors carefully.
-3. Repeat the sequence by clicking the correct colored buttons in order.
-4. Each round, the sequence gets **longer & harder**.
-5. Try to get the **highest score** and beat your friends!
 
----
+## 🕹 How to Play
+1. Press any key to start the game.
+2. Watch the color sequence carefully.
+3. Click the buttons in the exact same order.
+4. If you click the wrong button, the game ends and your score is shown.
+5. Try to beat your highest score and get to the top of the leaderboard!
 
-## 🛠️ Tech Stack
-- **HTML5**
-- **CSS3**
-- **JavaScript (Vanilla)**
 
----
+## 🛠 Technologies Used
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
 
-## 📸 Screenshot
-*(Add your game screenshot here)*
 
----
+## 📜 License
+This project is open source and free to use.
 
-## 📍 Live Demo
-👉 
-
----
 
 ## 📬 Author
 **Anshika Shukla**  
